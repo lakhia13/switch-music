@@ -1,0 +1,754 @@
+[
+    {
+        "name": "Ghanan Ghanan",
+        "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan, Sukhwinder Singh, Shankar Mahadevan, Shaan, Sehar",
+        "album": "Lagaan (Original Motion Picture Soundtrack)",
+        "release_date": "2001-04-03",
+        "duration_ms": 371400,
+        "spotify_url": "https://open.spotify.com/track/6B3Fr3kIWOOde0dFZPNDFp"
+    },
+    {
+        "name": "Chale Chalo",
+        "artist": "A.R. Rahman, Srinivas",
+        "album": "Lagaan (Original Motion Picture Soundtrack)",
+        "release_date": "2001-04-03",
+        "duration_ms": 400440,
+        "spotify_url": "https://open.spotify.com/track/0OJzFLposMXdRHIHiWq28a"
+    },
+    {
+        "name": "I'll Be There For You",
+        "artist": "The Rembrandts",
+        "album": "20 Pop Songs To Hear While You Are Still Alive",
+        "release_date": "2013-01-01",
+        "duration_ms": 186400,
+        "spotify_url": "https://open.spotify.com/track/74iEPVZvBMcYNCIEwEYWAZ"
+    },
+    {
+        "name": "Big Bang Theory Theme",
+        "artist": "Barenaked Ladies",
+        "album": "Big Bang Theory Theme",
+        "release_date": "2010-10-11",
+        "duration_ms": 105234,
+        "spotify_url": "https://open.spotify.com/track/7s91gb6uV5PPDq6muq6z9g"
+    },
+    {
+        "name": "Counting Stars",
+        "artist": "OneRepublic",
+        "album": "Native",
+        "release_date": "2013-01-01",
+        "duration_ms": 257265,
+        "spotify_url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+        "name": "Atlas - From “The Hunger Games: Catching Fire” Soundtrack",
+        "artist": "Coldplay",
+        "album": "Atlas (From “The Hunger Games: Catching Fire” Soundtrack)",
+        "release_date": "2013-01-01",
+        "duration_ms": 236093,
+        "spotify_url": "https://open.spotify.com/track/2DI0fZ4QZmLtapszYaoG6F"
+    },
+    {
+        "name": "Something Just Like This",
+        "artist": "The Chainsmokers, Coldplay",
+        "album": "Something Just Like This",
+        "release_date": "2017-02-22",
+        "duration_ms": 247626,
+        "spotify_url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
+    },
+    {
+        "name": "Chogada (From \"Loveyatri\")",
+        "artist": "Darshan Raval, Asees Kaur, Lijo George-Dj Chetas",
+        "album": "Chogada (From \"Loveyatri\")",
+        "release_date": "2018-08-14",
+        "duration_ms": 249741,
+        "spotify_url": "https://open.spotify.com/track/4ymPEyiXabTe1NO8q8EFxG"
+    },
+    {
+        "name": "Kamariya",
+        "artist": "Lijo George, Dj Chetas, Darshan Raval",
+        "album": "Mitron (Original Motion Picture Soundtrack)",
+        "release_date": "2018-08-30",
+        "duration_ms": 251640,
+        "spotify_url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+    },
+    {
+        "name": "Beat Juunglee (From \"Dil Juunglee\")",
+        "artist": "Tanishk Bagchi, Armaan Malik, Prakriti Kakar",
+        "album": "Beat Juunglee (From \"Dil Juunglee\")",
+        "release_date": "2018-02-02",
+        "duration_ms": 129999,
+        "spotify_url": "https://open.spotify.com/track/0KnwZmntwVMklQfmYvoEf7"
+    },
+    {
+        "name": "Viva La Vida",
+        "artist": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "release_date": "2008-05-26",
+        "duration_ms": 242373,
+        "spotify_url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+        "name": "A Sky Full of Stars",
+        "artist": "Viva la Vida",
+        "album": "Fix a Yellow Sky Full of Troubles",
+        "release_date": "2017-11-01",
+        "duration_ms": 273118,
+        "spotify_url": "https://open.spotify.com/track/5qzBLPh6wZslb3D6zkoqWn"
+    },
+    {
+        "name": "Yellow",
+        "artist": "Viva la Vida",
+        "album": "Fix a Yellow Sky Full of Troubles",
+        "release_date": "2017-11-01",
+        "duration_ms": 270496,
+        "spotify_url": "https://open.spotify.com/track/4W9dTQ5ohiWzefn4vozslP"
+    },
+    {
+        "name": "Best Day Of My Life",
+        "artist": "American Authors",
+        "album": "Oh, What A Life",
+        "release_date": "2014-01-01",
+        "duration_ms": 194240,
+        "spotify_url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+        "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
+        "artist": "Vishal Dadlani, Vishal, Shekhar Ravjiani",
+        "album": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
+        "release_date": "2020-02-12",
+        "duration_ms": 201655,
+        "spotify_url": "https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk"
+    },
+    {
+        "name": "The Final Countdown",
+        "artist": "Europe",
+        "album": "The Final Countdown (Expanded Edition)",
+        "release_date": "1986",
+        "duration_ms": 310333,
+        "spotify_url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+        "name": "Believer",
+        "artist": "Imagine Dragons",
+        "album": "Evolve",
+        "release_date": "2017-06-23",
+        "duration_ms": 204346,
+        "spotify_url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+        "name": "Demons",
+        "artist": "Imagine Dragons",
+        "album": "Night Visions",
+        "release_date": "2012-09-04",
+        "duration_ms": 177506,
+        "spotify_url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR"
+    },
+    {
+        "name": "Thunder",
+        "artist": "Imagine Dragons",
+        "album": "Evolve",
+        "release_date": "2017-06-23",
+        "duration_ms": 187146,
+        "spotify_url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+        "name": "Pompeii",
+        "artist": "Bastille",
+        "album": "Bad Blood",
+        "release_date": "2013-01-01",
+        "duration_ms": 214147,
+        "spotify_url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
+    },
+    {
+        "name": "Happy Together",
+        "artist": "The Turtles",
+        "album": "Happy Together",
+        "release_date": "1967",
+        "duration_ms": 176293,
+        "spotify_url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+    },
+    {
+        "name": "Uptown Funk (feat. Bruno Mars)",
+        "artist": "Mark Ronson, Bruno Mars",
+        "album": "Uptown Special",
+        "release_date": "2015-01-12",
+        "duration_ms": 269666,
+        "spotify_url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+        "name": "Immortals",
+        "artist": "Fall Out Boy",
+        "album": "American Beauty/American Psycho",
+        "release_date": "2015-01-16",
+        "duration_ms": 189386,
+        "spotify_url": "https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"
+    },
+    {
+        "name": "Centuries",
+        "artist": "Fall Out Boy",
+        "album": "American Beauty/American Psycho",
+        "release_date": "2015-01-16",
+        "duration_ms": 228360,
+        "spotify_url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+    },
+    {
+        "name": "On Top Of The World",
+        "artist": "Imagine Dragons",
+        "album": "Night Visions",
+        "release_date": "2012-09-04",
+        "duration_ms": 192280,
+        "spotify_url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
+    },
+    {
+        "name": "Renegades",
+        "artist": "X Ambassadors",
+        "album": "VHS",
+        "release_date": "2015-06-30",
+        "duration_ms": 195200,
+        "spotify_url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
+    },
+    {
+        "name": "Secrets",
+        "artist": "OneRepublic",
+        "album": "Waking Up",
+        "release_date": "2009-01-01",
+        "duration_ms": 224693,
+        "spotify_url": "https://open.spotify.com/track/1NhPKVLsHhFUHIOZ32QnS2"
+    },
+    {
+        "name": "Safe And Sound",
+        "artist": "Capital Cities",
+        "album": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "release_date": "2013",
+        "duration_ms": 192789,
+        "spotify_url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+    },
+    {
+        "name": "Uma Thurman",
+        "artist": "Fall Out Boy",
+        "album": "American Beauty/American Psycho",
+        "release_date": "2015-01-16",
+        "duration_ms": 211573,
+        "spotify_url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
+    },
+    {
+        "name": "The Nights",
+        "artist": "Avicii",
+        "album": "The Days / Nights",
+        "release_date": "2014-01-01",
+        "duration_ms": 176658,
+        "spotify_url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+    },
+    {
+        "name": "Believer",
+        "artist": "American Authors",
+        "album": "Oh, What A Life",
+        "release_date": "2014-01-01",
+        "duration_ms": 183893,
+        "spotify_url": "https://open.spotify.com/track/64ybTt8CKxPdeXBNnu08Op"
+    },
+    {
+        "name": "Iron Man Armored Adventures Theme",
+        "artist": "Rooney",
+        "album": "Iron Man Armored Adventures Theme",
+        "release_date": "2009-08-31",
+        "duration_ms": 136240,
+        "spotify_url": "https://open.spotify.com/track/3LGUsgNrsptmc9SFqVNZyD"
+    },
+    {
+        "name": "Shut Up and Dance",
+        "artist": "WALK THE MOON",
+        "album": "TALKING IS HARD",
+        "release_date": "2014-12-02",
+        "duration_ms": 199080,
+        "spotify_url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+        "name": "I Lived",
+        "artist": "OneRepublic",
+        "album": "Native",
+        "release_date": "2013-01-01",
+        "duration_ms": 234546,
+        "spotify_url": "https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo"
+    },
+    {
+        "name": "Chasing The Sun",
+        "artist": "The Wanted",
+        "album": "The Wanted (Special Edition)",
+        "release_date": "2012-01-01",
+        "duration_ms": 198800,
+        "spotify_url": "https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs"
+    },
+    {
+        "name": "If I Lose Myself",
+        "artist": "OneRepublic",
+        "album": "Native",
+        "release_date": "2013-01-01",
+        "duration_ms": 241653,
+        "spotify_url": "https://open.spotify.com/track/5xS9R5yNeVsB9shSR60eX3"
+    },
+    {
+        "name": "Let Your Heart Hold Fast",
+        "artist": "Fort Atlantic",
+        "album": "Fort Atlantic",
+        "release_date": "2012-05-29",
+        "duration_ms": 226880,
+        "spotify_url": "https://open.spotify.com/track/0poxIvI8mH3TZcGp4T7BWs"
+    },
+    {
+        "name": "Go Big Or Go Home",
+        "artist": "American Authors",
+        "album": "What We Live For",
+        "release_date": "2016-07-01",
+        "duration_ms": 169026,
+        "spotify_url": "https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG"
+    },
+    {
+        "name": "Glad You Came",
+        "artist": "The Wanted",
+        "album": "The Wanted (Special Edition)",
+        "release_date": "2012-01-01",
+        "duration_ms": 198186,
+        "spotify_url": "https://open.spotify.com/track/3ZShCgwUuSNcd3iDomFvbE"
+    },
+    {
+        "name": "Raging Fire",
+        "artist": "Phillip Phillips",
+        "album": "Behind The Light (Deluxe)",
+        "release_date": "2014-01-01",
+        "duration_ms": 234693,
+        "spotify_url": "https://open.spotify.com/track/3Q2tKt6gKdn9LUMcHFxNJy"
+    },
+    {
+        "name": "I'm Gonna Be (500 Miles)",
+        "artist": "The Proclaimers",
+        "album": "Sunshine on Leith",
+        "release_date": "1988",
+        "duration_ms": 219466,
+        "spotify_url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+        "name": "Heaven (The Walkmen Cover)",
+        "artist": "Paradise Fears",
+        "album": "Color",
+        "release_date": "2019-07-22",
+        "duration_ms": 224810,
+        "spotify_url": "https://open.spotify.com/track/5L82os4CbICXf0SugpuQUi"
+    },
+    {
+        "name": "We Own The Night",
+        "artist": "The Wanted",
+        "album": "Word Of Mouth (Deluxe)",
+        "release_date": "2013-01-01",
+        "duration_ms": 206161,
+        "spotify_url": "https://open.spotify.com/track/6XS8t28Zl7a9LiZacsRdNK"
+    },
+    {
+        "name": "I'm Born To Run",
+        "artist": "American Authors",
+        "album": "What We Live For",
+        "release_date": "2016-07-01",
+        "duration_ms": 206920,
+        "spotify_url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
+    },
+    {
+        "name": "Honey, I'm Good",
+        "artist": "Andy Grammer",
+        "album": "Magazines or Novels",
+        "release_date": "2015-10-09",
+        "duration_ms": 199253,
+        "spotify_url": "https://open.spotify.com/track/6zoG4qagYh0UGIYwWOpE1z"
+    },
+    {
+        "name": "Things We Lost In The Fire",
+        "artist": "Bastille",
+        "album": "Bad Blood",
+        "release_date": "2013-01-01",
+        "duration_ms": 240746,
+        "spotify_url": "https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg"
+    },
+    {
+        "name": "Geronimo",
+        "artist": "Sheppard",
+        "album": "Bombs Away",
+        "release_date": "2015-01-12",
+        "duration_ms": 218227,
+        "spotify_url": "https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en"
+    },
+    {
+        "name": "Hall of Fame (feat. will.i.am)",
+        "artist": "The Script, will.i.am",
+        "album": "#3 Deluxe Version",
+        "release_date": "2012-09-10",
+        "duration_ms": 202533,
+        "spotify_url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX"
+    },
+    {
+        "name": "Luck",
+        "artist": "American Authors",
+        "album": "Oh, What A Life",
+        "release_date": "2014-01-01",
+        "duration_ms": 220693,
+        "spotify_url": "https://open.spotify.com/track/4gHD93RNqEhEh2NkYzl3x6"
+    },
+    {
+        "name": "Superheroes",
+        "artist": "The Script",
+        "album": "No Sound Without Silence",
+        "release_date": "2014-09-15",
+        "duration_ms": 245466,
+        "spotify_url": "https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i"
+    },
+    {
+        "name": "It's Time",
+        "artist": "Imagine Dragons",
+        "album": "Night Visions",
+        "release_date": "2012-09-04",
+        "duration_ms": 240306,
+        "spotify_url": "https://open.spotify.com/track/7MXlTgQeo3IVlMpLnZuhxc"
+    },
+    {
+        "name": "Call Me Maybe",
+        "artist": "Carly Rae Jepsen",
+        "album": "Kiss",
+        "release_date": "2012-01-01",
+        "duration_ms": 193400,
+        "spotify_url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+        "name": "Drive By",
+        "artist": "Train",
+        "album": "California 37",
+        "release_date": "2012-04-17",
+        "duration_ms": 195973,
+        "spotify_url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+        "name": "Something I Need",
+        "artist": "OneRepublic",
+        "album": "Native",
+        "release_date": "2013-01-01",
+        "duration_ms": 240080,
+        "spotify_url": "https://open.spotify.com/track/5aIZ2jtxZ4o4GHQXTybkIa"
+    },
+    {
+        "name": "Gone, Gone, Gone",
+        "artist": "Phillip Phillips",
+        "album": "The World From The Side Of The Moon",
+        "release_date": "2012-01-01",
+        "duration_ms": 209693,
+        "spotify_url": "https://open.spotify.com/track/2qHiyBpxyOXnRGG3t2iE96"
+    },
+    {
+        "name": "What We Live For",
+        "artist": "American Authors",
+        "album": "What We Live For",
+        "release_date": "2016-07-01",
+        "duration_ms": 178560,
+        "spotify_url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
+    },
+    {
+        "name": "Love Don't Die",
+        "artist": "The Fray",
+        "album": "Helios",
+        "release_date": "2014-02-24",
+        "duration_ms": 183093,
+        "spotify_url": "https://open.spotify.com/track/6IDDwI0YOCAUDhMZltQekS"
+    },
+    {
+        "name": "Kaleidoscope",
+        "artist": "A Great Big World",
+        "album": "When the Morning Comes",
+        "release_date": "2015-11-13",
+        "duration_ms": 229320,
+        "spotify_url": "https://open.spotify.com/track/2SkJKMfjpYsNv0KWOxiegX"
+    },
+    {
+        "name": "King Of The World",
+        "artist": "Young Rising Sons",
+        "album": "Young Rising Sons",
+        "release_date": "2014-07-08",
+        "duration_ms": 204040,
+        "spotify_url": "https://open.spotify.com/track/4GuzyfGbR2y4L65ONTw1dk"
+    },
+    {
+        "name": "Work This Body",
+        "artist": "WALK THE MOON",
+        "album": "TALKING IS HARD",
+        "release_date": "2014-12-02",
+        "duration_ms": 175906,
+        "spotify_url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
+    },
+    {
+        "name": "Statues",
+        "artist": "Alexandre Desplat",
+        "album": "Harry Potter and the Deathly Hallows, Part 2 (Original Motion Picture Soundtrack)",
+        "release_date": "2011-07-12",
+        "duration_ms": 144200,
+        "spotify_url": "https://open.spotify.com/track/3jXFtmb3OU9rhytuuT1VT6"
+    },
+    {
+        "name": "Dark Lord Funk - Harry Potter \"Uptown Funk\" Parody",
+        "artist": "K-Face Rules, Eli Thomas",
+        "album": "Dark Lord Funk - Harry Potter \"Uptown Funk\" Parody",
+        "release_date": "2015-03-24",
+        "duration_ms": 269224,
+        "spotify_url": "https://open.spotify.com/track/3D1BVcsqIw7WhNB7ejfmcf"
+    },
+    {
+        "name": "The Campfire Song",
+        "artist": "Jonathan Raviv, The Lightning Thief Company, Rob Rokicki",
+        "album": "The Lightning Thief (Original Cast Recording)",
+        "release_date": "2017-06-30",
+        "duration_ms": 298120,
+        "spotify_url": "https://open.spotify.com/track/4PbtaryVi0i6IrNK4Pl6ys"
+    },
+    {
+        "name": "Young Volcanoes",
+        "artist": "Fall Out Boy",
+        "album": "Save Rock And Roll",
+        "release_date": "2013-04-12",
+        "duration_ms": 204506,
+        "spotify_url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
+    },
+    {
+        "name": "Soldier, Poet, King",
+        "artist": "The Oh Hellos",
+        "album": "Dear Wormwood",
+        "release_date": "2015-10-16",
+        "duration_ms": 165680,
+        "spotify_url": "https://open.spotify.com/track/26ky3sBMKv31Kpvil5pGDh"
+    },
+    {
+        "name": "Paper Rings",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "release_date": "2019-08-23",
+        "duration_ms": 222400,
+        "spotify_url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
+    },
+    {
+        "name": "Little Talks",
+        "artist": "Of Monsters and Men",
+        "album": "My Head Is An Animal",
+        "release_date": "2012-01-01",
+        "duration_ms": 266600,
+        "spotify_url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
+    },
+    {
+        "name": "Born For This",
+        "artist": "The Score",
+        "album": "Pressure",
+        "release_date": "2019-02-01",
+        "duration_ms": 234013,
+        "spotify_url": "https://open.spotify.com/track/5Sco7mbJy7p7vdDtJW10fZ"
+    },
+    {
+        "name": "The Last Day of Summer",
+        "artist": "Chris McCarrell, James Hayden Rodriguez, The Lightning Thief Company, Rob Rokicki",
+        "album": "The Lightning Thief (Original Cast Recording)",
+        "release_date": "2017-06-30",
+        "duration_ms": 216000,
+        "spotify_url": "https://open.spotify.com/track/6GLa72UNppmaZs5dldDKWq"
+    },
+    {
+        "name": "Prologue / The Day I Got Expelled",
+        "artist": "Chris McCarrell, The Lightning Thief Company, Rob Rokicki",
+        "album": "The Lightning Thief (Original Cast Recording)",
+        "release_date": "2017-06-30",
+        "duration_ms": 463746,
+        "spotify_url": "https://open.spotify.com/track/1oyP3ieSLmPQkMGVHPUd2p"
+    },
+    {
+        "name": "Blue Bird (From \"Naruto Shippuden\")",
+        "artist": "Akano",
+        "album": "Blue Bird (From \"Naruto Shippuden\")",
+        "release_date": "2020-12-22",
+        "duration_ms": 100200,
+        "spotify_url": "https://open.spotify.com/track/1bEnIDpwKsyhDauHVoMz6t"
+    },
+    {
+        "name": "ブラッドサーキュレーター",
+        "artist": "ASIAN KUNG-FU GENERATION",
+        "album": "Blood Circulator",
+        "release_date": "2016-07-13",
+        "duration_ms": 223013,
+        "spotify_url": "https://open.spotify.com/track/6olaPIBVCwYF6ofjhJgSIz"
+    },
+    {
+        "name": "Everything Ends Here",
+        "artist": "Gunpowderbob",
+        "album": "Everything Ends Here",
+        "release_date": "2019-08-19",
+        "duration_ms": 225000,
+        "spotify_url": "https://open.spotify.com/track/7DuEbYVpulQTpjUDCIFCRx"
+    },
+    {
+        "name": "On The Precipice Of Defeat",
+        "artist": "Anime de Japan",
+        "album": "Anime de Japan, Vol. 2",
+        "release_date": "2021-01-20",
+        "duration_ms": 176822,
+        "spotify_url": "https://open.spotify.com/track/0rXbryVtAQdnogsOBZ72iz"
+    },
+    {
+        "name": "Achilles Come Down",
+        "artist": "Gang of Youths",
+        "album": "Go Farther In Lightness",
+        "release_date": "2017-08-18",
+        "duration_ms": 422146,
+        "spotify_url": "https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs"
+    },
+    {
+        "name": "Boulevard of Broken Dreams",
+        "artist": "Green Day",
+        "album": "Greatest Hits: God's Favorite Band",
+        "release_date": "2017-11-17",
+        "duration_ms": 262333,
+        "spotify_url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
+    },
+    {
+        "name": "Riptide",
+        "artist": "Vance Joy",
+        "album": "Dream Your Life Away",
+        "release_date": "2014-09-08",
+        "duration_ms": 204280,
+        "spotify_url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+    },
+    {
+        "name": "Pocket Full Of Gold",
+        "artist": "American Authors",
+        "album": "What We Live For",
+        "release_date": "2016-07-01",
+        "duration_ms": 180213,
+        "spotify_url": "https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe"
+    },
+    {
+        "name": "Paint the Town Green",
+        "artist": "The Script",
+        "album": "No Sound Without Silence",
+        "release_date": "2014-09-15",
+        "duration_ms": 211800,
+        "spotify_url": "https://open.spotify.com/track/5sUSZx5d2bThAZa4iS7cfu"
+    },
+    {
+        "name": "Anything",
+        "artist": "Hedley",
+        "album": "Wild Life",
+        "release_date": "2013-01-01",
+        "duration_ms": 191693,
+        "spotify_url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
+    },
+    {
+        "name": "No Guts, No Glory",
+        "artist": "Cassio Monroe",
+        "album": "No Guts, No Glory",
+        "release_date": "2015-10-30",
+        "duration_ms": 213986,
+        "spotify_url": "https://open.spotify.com/track/46dN8VFaMMmZRG4yarIT3X"
+    },
+    {
+        "name": "Stand Up",
+        "artist": "The Cab",
+        "album": "Lock Me Up",
+        "release_date": "2014-01-01",
+        "duration_ms": 263213,
+        "spotify_url": "https://open.spotify.com/track/37OjMlwuUVWWmVKrV8CiUQ"
+    },
+    {
+        "name": "Valhalla Calling",
+        "artist": "Miracle Of Sound",
+        "album": "Valhalla Calling",
+        "release_date": "2020-11-27",
+        "duration_ms": 224006,
+        "spotify_url": "https://open.spotify.com/track/587nP9FS8o0p70Z3JS9Uem"
+    },
+    {
+        "name": "The Tale of Cu Chulainn",
+        "artist": "Miracle Of Sound",
+        "album": "The Tale of Cu Chulainn",
+        "release_date": "2020-10-23",
+        "duration_ms": 525176,
+        "spotify_url": "https://open.spotify.com/track/7iIuUkFgmHYxYDEBuPlLml"
+    },
+    {
+        "name": "Be Okay",
+        "artist": "Oh Honey",
+        "album": "With Love - EP",
+        "release_date": "2016-05-06",
+        "duration_ms": 198674,
+        "spotify_url": "https://open.spotify.com/track/73Iyy1U5QR96t7YPPDrEKb"
+    },
+    {
+        "name": "Belupacito",
+        "artist": "Beluga",
+        "album": "Belupacito",
+        "release_date": "2021-10-25",
+        "duration_ms": 220647,
+        "spotify_url": "https://open.spotify.com/track/4sk5TBouH9aZKp9OvvqxR6"
+    },
+    {
+        "name": "Gambling",
+        "artist": "syudou",
+        "album": "Gambling",
+        "release_date": "2021-07-07",
+        "duration_ms": 219406,
+        "spotify_url": "https://open.spotify.com/track/6uJYlImgJZHoxrkbIn0S2m"
+    },
+    {
+        "name": "Shubhaarambh",
+        "artist": "Amit Trivedi, Shruti Pathak, Divya Kumar",
+        "album": "Kai Po Che (Original Motion Picture Soundtrack)",
+        "release_date": "2013-02-01",
+        "duration_ms": 234093,
+        "spotify_url": "https://open.spotify.com/track/6qGCJLF0V7SuHTOOGUcDsv"
+    },
+    {
+        "name": "House of Memories",
+        "artist": "Panic! At The Disco",
+        "album": "Death of a Bachelor",
+        "release_date": "2016-01-15",
+        "duration_ms": 208706,
+        "spotify_url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+    },
+    {
+        "name": "Pasoori",
+        "artist": "Shae Gill, Ali Sethi",
+        "album": "Pasoori",
+        "release_date": "2022-02-07",
+        "duration_ms": 224146,
+        "spotify_url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+        "name": "We Didn't Start the Fire",
+        "artist": "Billy Joel",
+        "album": "Storm Front",
+        "release_date": "1989-10-17",
+        "duration_ms": 287733,
+        "spotify_url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
+    },
+    {
+        "name": "Take It Off",
+        "artist": "Kesha",
+        "album": "Animal (Expanded Edition)",
+        "release_date": "2010-01-01",
+        "duration_ms": 215200,
+        "spotify_url": "https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S"
+    },
+    {
+        "name": "World's Smallest Violin",
+        "artist": "AJR",
+        "album": "OK ORCHESTRA",
+        "release_date": "2021-03-26",
+        "duration_ms": 180746,
+        "spotify_url": "https://open.spotify.com/track/68EkhVWIeULhHxcbi1QhzK"
+    },
+    {
+        "name": "Somoy Kate",
+        "artist": "Arnob",
+        "album": "Hok Kolorob",
+        "release_date": "2017-02-01",
+        "duration_ms": 271946,
+        "spotify_url": "https://open.spotify.com/track/3BocU3OS9pAMc54TE681Ca"
+    }
+]

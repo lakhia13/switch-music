@@ -1,13 +1,10 @@
 import spotipy
+from keys import *
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
 
-# Spotify API credentials (replace with your credentials)
-CLIENT_ID = 'foo'
-CLIENT_SECRET = 'bar'
-
 # Initialize the Spotify client
-client_credentials_manager = SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)
+client_credentials_manager = SpotifyClientCredentials(client_id=CLIENT_ID_SP, client_secret=CLIENT_SECRET_SP)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 def get_playlist_tracks(playlist_url):
